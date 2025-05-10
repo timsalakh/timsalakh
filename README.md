@@ -7,5 +7,5 @@
                                           
 ```
 <p>
-Hi, I'm Tim — a backend engineer passionate about scalable systems, networks, and cloud architecture ☁️🧠
+Hi, my name is Tim and I'm a backend software engineer with a passion for network and cloud technologies ☁️🧠
 </p>
